@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+
+  padding: 5rem 0.625rem;
+  
+  background-color: var(--gray-700);
+}
